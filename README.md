@@ -4,5 +4,5 @@
 
 ### Night Watch
 ```
-brew install dashbase/homebrew-tap/night-watch
+brew install dashbase/tap/night-watch
 ```
