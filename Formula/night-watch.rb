@@ -1,9 +1,9 @@
 class NightWatch < Formula
   desc "night-watch"
   homepage "https://dashbase.io/"
-  url "https://github.com/dashbase/night-watch/releases/download/v1.0.0-rc8/night-watch_1.0.0-rc8_macOS_64-bit.tar.gz"
-  version "1.0.0-rc8"
-  sha256 "48e34a667f94f49b5e0c15fb66062d7b8a530177095b4511e5c0ec975ac7d58e"
+  url "https://github.com/dashbase/night-watch/releases/download/v1.0.0-rc9/night-watch_1.0.0-rc9_macOS_64-bit.tar.gz"
+  version "1.0.0-rc9"
+  sha256 "fd5a327756369782ef0c17073d9b3341758af040f240e70b2e5a755814170e8c"
 
   def install
     bin.install "night-watch"
